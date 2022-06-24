@@ -9,14 +9,11 @@ Esse projeto consiste em criar um gerador automático de voucher, onde poderá i
 
 
 ### Gabriel Oliveira ###
+
+Me siga nas minhas Redes Sociais
 <ul dir="auto">
-<li><a href="https://rocketseat.com.br" rel="nofollow">Site</a></li>
-<li><a href="https://blog.rocketseat.com.br" rel="nofollow">Blog</a></li>
-<li><a href="https://facebook.com/rocketseat" rel="nofollow">Facebook</a></li>
-<li><a href="https://www.youtube.com/rocketseat" rel="nofollow">Youtube</a></li>
-<li><a href="https://twitter.com/rocketseat" rel="nofollow">Twitter</a></li>
-<li><a href="https://www.instagram.com/rocketseat_oficial" rel="nofollow">Instagram</a></li>
-<li><a href="https://www.linkedin.com/company/rocketseat" rel="nofollow">Linkedin</a></li>
+<li><a href="https://www.instagram.com/gabuhvv/" rel="nofollow">Instagram</a></li>
+<li><a href="https://www.linkedin.com/in/gabriel-vinicius-898a24101/" rel="nofollow">Linkedin</a></li>
 </ul>
 
 
