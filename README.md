@@ -1,3 +1,3 @@
 # gerador-de-voucher
-This project is a simple coupon generator.
+:construction: Projeto em construção :construction:
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
